@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#keralalogo{
+    margin-left: 20px;
+    height: 80px;
+    width: 80px;
+    padding-bottom: 1px;
+}
+.nav-item>a:hover{
+    background-color:forestgreen;
+    color: black !important;
+}
+.nav-item{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#tit{
+    padding-right: 50px;
+    color: green;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.dist>a:hover{
+    background-color:darkturquoise;
+    color: black !important;
+} 
+#heading{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:firebrick;
+    background-color:azure;
+    font-weight: bolder;
+    padding-left: 39%; 
+    padding-top: 10px;
+    
+}
+.row{
+    padding-left: 20%;
+}
+#sticky-footer{
+    margin-top:100px; 
+    height: 50px;
+}
+#content{
+    padding-top: 30px;
+    padding-right: 60px;
+    margin-left: 16px;
+    color:midnightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-weight:500;
+    line-height: 35px;
+}
